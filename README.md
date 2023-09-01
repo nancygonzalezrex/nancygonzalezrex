@@ -1,6 +1,6 @@
 
 <div id="header" aling= "center">
-  <img src= "https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej" width"480" />
+  <img src= "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=800" width"480" />
   <h1 aling= "center"> Hi there 👋, I´m Nancy Gonzalez Rex </h1>
   <h3 aling= "center"> I am passionate about being a web developer, I am from Santiago de Chile
 </div>
